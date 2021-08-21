@@ -1,3 +1,3 @@
 # MNIST
 
-Various types of neural networks to calculate MNIST using keras and tensorflow
+Various types of neural networks to classify digits using keras and tensorflow
